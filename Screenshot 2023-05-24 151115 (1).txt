@@ -1,0 +1,39 @@
+</section>
+<h2>Phản hồi của khách hàng</h2>
+
+<section class="feedback">
+<articte>
+<img src="img/kh1.jpeg" al
+<p>Khách hàng 1</p>
+<p>
+<i class="bi bi-star-fi1U"></i>
+<i class="bi bi-star-fi\\"></i>
+<i class="bi bi-star-fill"
+<i class="bi bi-star-fill"
+<i class="bi bi-star-fi1U"></i>
+</p>
+<span>
+<i>
+"Toi va gia đình đã có chuyến đi du lich t
+</i>
+</span>
+</articte>
+<articte>
+<img src="img/kh1.jpeg" al
+
+<p>Khéch hang 1</p>
+
+<p>
+<i class="bi bi-star-fill"></i>
+<i class="bi bi-star-fill"></i>
+<i class="bi bi-star-fill"
+<i class="bi bi-star-fill"
+<i class="bi bi-star-fill"s></i>
+</p>
+<span>
+<i>
+" Tôi và gia đình đã có chuyến đi du lich t
+</i>
+</span>
+
+</article>

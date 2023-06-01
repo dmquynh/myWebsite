@@ -1,0 +1,39 @@
+</section>
+<h2>Phan hdi cia khach hang</h2>
+
+<section class="feedback">
+<article>
+<img src="img/kh1.jpeg" al
+<p>Khach hang 1</p>
+<p>
+<i class="bi bi-star-fill"></i>
+<i class="bi bi-star-fill"></i>
+<i class="bi bi-star-fill"
+<i class="bi bi-star-fill"
+<i class="bi bi-star-fill"s></i>
+</p>
+<span>
+<i>
+"Toi va gia dinh da c6 chuyén di du lich t
+</i>
+</span>
+</article>
+<articles
+<img src="ing/khl.jpeg" al
+
+<p>Khéch hang 1</p>
+
+<p>
+<i class="bi bi-star-fill"></i>
+<i class="bi bi-star-fill"></i>
+<i class="bi bi-star-fill"
+<i class="bi bi-star-fill"
+<i class="bi bi-star-fill"s></i>
+</p>
+<span>
+<i>
+" Téi va gia dinh da c6 chuyén di du lich t
+</i>
+</span>
+
+</article>

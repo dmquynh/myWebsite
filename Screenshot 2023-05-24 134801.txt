@@ -1,0 +1,13 @@
+n2 0G U26 G2
+2 Hãy tìm Tên Sản Phẩm dựa vòo trong Bàng 1 Cxý tự 2,3,4 trong Mã N8)
+72 / Đơn Giá: Dưa vào Tên Sản Phẩm trong Bàng 2 (Đơn vi:}990 đồng)
+52 Thuê: Nếu Loại ND là “Bán” có số thùng từ 250 trở lên thì tính băng:
+“số Thùng * Đơn Giá * 10%”; ngược lại không tính thuế.
+5) / Thành Tiền: =( SỐ Thùng + Số SP Lẻ/45) * Đơn Giá — Thuế.
+2 Lập công thức tính Tống Tiền của sản phẩm SAMSUNG tại Bàn:
+đồng)
+Hãy sấp xếp tăng dần theo Số lượng Sàn Phẩm
+
+(Đơn v\:1000 đồng)
+g 3. (Đơn v\:1O99.
+

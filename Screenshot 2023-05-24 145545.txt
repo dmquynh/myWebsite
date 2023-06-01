@@ -1,0 +1,46 @@
+<!D0CTYPE html>
+
+> cac PR PL =x
+<html lang="en"> No results
+<head>
+<meta UTF-8">
+
+<meta http-equiv="X-UA-Conpatible" content="IE=edge">
+<meta name="viewport" content="width=device-vidth, initial-scale=1.0">
+<Unk rel="stylesheet” href="style.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npn/bootstrap-iconsel.18.5/font/bootstrap-icons. css’
+<script src="https://code. jquery. con) jquery-3.6.4.]s"></script>
+<titlesDocument</ titles
+</head>
+<body>
+<header>
+<ing src="ing/logo. jpeg” alt=
+<p> <b>H0TLINE: 8987654321</9> </p>
+</header>
+
+<i class="bi bi-Uist"></i>
+
+<
+- chi</a>
+<a href="">Trang chủ</a>
+¬
+¬
+<¬
+
+">Trang chi</a>
+">Trang chii</a>
+href=""sTrang chủ</a>
+
+<div class="slide">
+<img id="banner" src="ing/banner. jpeg" alt=" width="100%" />
+<i class="bi bi-caret-left" onclick="prev()"></i>
+<i class="bi bi-caret-right" onclick="next"></i>
+<div class="list">
+
+<span 19="0>.</span> =
+<span id="1">.</span> (© Restart Visual Studio Code to apply the latest update
+
+<a [eam] EE 0
+
+IS
+
