@@ -6,9 +6,9 @@ $(document).ready(function(){
 
 //slideshow
 var hinh=[
-    'img/a2.png',
-    'img/a6.png',
-    'img/a3.jpg',
+    'a2.png',
+    'a6.png',
+    'a3.jpg',
 ];
 var index=0;
 function prev(){
